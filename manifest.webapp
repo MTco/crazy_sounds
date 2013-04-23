@@ -3,12 +3,12 @@
   "name": "Crazy Sounds",
   "description": "Generates sounds, disturbs friends or whistles your dog!",
   "launch_path": "/crazy_sounds/",
-  "icons": {
-    "16": "/images/icons/16.png",
-    "30": "/images/icons/30.png",
-    "48": "/images/icons/48.png",
-    "60": "/images/icons/30.png",
-    "128": "/images/icons/128.png"
+  "icons":  {
+    "16":  "/crazy_sounds/images/icons/16.png",
+    "30":  "/crazy_sounds/images/icons/30.png",
+    "48":  "/crazy_sounds/images/icons/48.png",
+    "60":  "/crazy_sounds/images/icons/30.png",
+    "128": "/crazy_sounds/images/icons/128.png"
   },
   "type": "web",
   
@@ -17,6 +17,6 @@
     "url": "http://www.adhikary.net/"
   },
   "installs_allowed_from": ["*"],
-  "appcache_path": "/cache.manifest",
+  "appcache_path": "/crazy_sounds/cache.manifest",
   "default_locale": "en"
 }
