@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "name": "Crazy Sounds",
+  "description": "Generates sounds, disturbs friends or whistles your dog!",
+  "launch_path": "/crazy_sounds/",
+  "icons": {
+    "16": "/images/icons/16.png",
+    "30": "/images/icons/30.png",
+    "48": "/images/icons/48.png",
+    "60": "/images/icons/30.png",
+    "128": "/images/icons/128.png"
+  },
+  "type": "web",
+  
+  "developer": {
+    "name": "Aniruddha Adhikary",
+    "url": "http://www.adhikary.net/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "default_locale": "en"
+}
